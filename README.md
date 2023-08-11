@@ -1,16 +1,16 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💜
 
-<!--
-**kemillyvitoria/kemillyvitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é kemilly 🙂
 
-Here are some ideas to get you started:
+-estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo na linguagem JavaScript
+
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### você entrar em contato comigo 📫
+g.kemilly@escola.pr.gov.br
+
+@kemilly8020
+
+![](https://media.tenor.com/OHTxhd3j3LUAAAAi/mario-ok.gif)
